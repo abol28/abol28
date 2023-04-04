@@ -1,8 +1,8 @@
-name: CI
+name: Abolfazl
 
 on: workflow_dispatch
 
-jobs:
+jobs:Student
 
   build:
 
